@@ -1,2 +1,3 @@
 # Computer-graphics-project
-https://suvozit.github.io/Computer-graphics-project/
+https://github.com/suvozit/Computer-graphics-projectt
+
