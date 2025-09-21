@@ -1,2 +1,2 @@
 # Computer-graphics-project
-glut project
+https://suvozit.github.io/Computer-graphics-project/
